@@ -1,4 +1,11 @@
-## Hi there 👋
+Hello! 👋 
+My name is Margaret, Maggie for short. I am a data analyst. Tools that I use for data cleaning, editing and visualization include Microsft Excel and PowerBi. I am also passionate about Database Management Systems using SQL and Python languages!
+
+
+- 💻I’m currently working on my database management skills. Still learning but I will be posting my works here soon.
+- 🌱 I’m currently learning some languages for the fun of it: Italian, French and Japanese.
+- 👩🏾‍💻 I’m looking to collaborate on data cleaning and visualization processes using just Excel and Powerbi for now.
+- 👌🏾 I am open to pointers and corrections regarding my repositories and my contributions to any repositories on here.
 
 <!--
 **margaryen-exe/margaryen-exe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
